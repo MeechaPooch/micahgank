@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project phineas-ferb-2019)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "phineas-ferb-2019",
+    "language": "java"
+  }
+]
